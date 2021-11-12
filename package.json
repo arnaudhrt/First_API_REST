@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/arnaudhrt/First-API-REST#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "morgan": "^1.10.0"

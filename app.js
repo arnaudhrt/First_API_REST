@@ -2,7 +2,7 @@ import express from 'express'
 import morgan from 'morgan'
 import { success, error } from './function.js'
 import { members } from './dataBase.js'
-import {settings} from './settings.js'
+import { settings } from './settings.js'
 const app = express()
 
 const MembersRouter = express.Router()
